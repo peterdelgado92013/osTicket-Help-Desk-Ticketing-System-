@@ -1,8 +1,25 @@
-# Azure osTicket Help Desk Lab – Screenshots & Walkthrough
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
-This section documents the step-by-step configuration of an **osTicket Help Desk system deployed in Microsoft Azure**, demonstrating experience as both a **system administrator** and an **end user**.
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
----
+
+<h2>Video Demonstration</h2>
+
+- ### [https://youtu.be/KsUij6ap3wc?si=ROjIEPUm7AG0xw37]
+
+- <h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
 
 ## 1. osTicket Installation Successful
 
